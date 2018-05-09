@@ -1,4 +1,4 @@
-## Plex Cookbook
+# Plex Cookbook
 
-# Purpose
+## Purpose
 To install the latest version of Plex using Chef.
